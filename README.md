@@ -1,2 +1,2 @@
 # 42-C-piscine
-42 projeleri yayınlanır.
+## Şubat havuzunda yenilenmiş pdf ler burada paylaşılacaktır!
